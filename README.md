@@ -1,2 +1,2 @@
 # To-Do-List
-A simple Python To-Do list application
+The Python To-Do list App is a lightweight, console-based task manager designed to help users organize and priotize their daily activities. It features an intuitive interface for adding, updating, and removing tasks.  
